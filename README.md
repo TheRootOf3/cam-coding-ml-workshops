@@ -11,12 +11,12 @@ Christ's College Cambridge, Fridays {15, 22, 29}-November 2024, 5pm.
 | Date               | Workshop                                             |
 |--------------------|------------------------------------------------------|
 | 15th November 2024 | [Python Programming Basics](./1_python_programming/) |
-| 22nd November 2024 | Machine Learning 101                                 |
+| 22nd November 2024 | [Machine Learning 101](./2_machine_learning/)        |
 | 29th November 2024 | ML in Computer Vision                                |
 
 ## Credits 📝
 
-Some of the materials are adapted from a great series of *tutorials on Machine Learning* delivered by last year's team at the [UCL AI Society](https://uclaisociety.co.uk), to which I had a pleasure contributing!
+Some of the materials are adapted from the **last year's version of this course by Sharon Ho** and a great series of **tutorials on Machine Learning** delivered by last year's team at the [UCL AI Society](https://uclaisociety.co.uk), to which I had a pleasure contributing!
 
 I **highly recommend** having a look at the resources:
 - slides, talk recordings and useful overviews on [the society website](https://uclaisociety.co.uk/our-initiatives/tutorials/2023-2024/),
